@@ -16,4 +16,3 @@ The images and music were not created by me, i downloaded them from the internet
 1. Tic-Tac-Toe: The most known 2 player game that everybody loves to play in their free time.
 2. Hangman: A Guessing game, where only one person can play at a time and the task is to guess the word in limited no. of chances to win.
 3. Pong: A 2 player game where the points are scored by hitting the ball out of opponents reach in their side. (If you feel the speed is fast or slow, then just changeing the screen size will help,bigger screen -> slower ball and vice-versa, DO NOT change the Ball_speed or Paddle_speed parameters to be less than 1.)
-
